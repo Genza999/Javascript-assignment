@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "The NewVision Extension",
+  "description": "This extension will bring you the daily news as it is from Uganda's leading Newspaper ,The NewVison",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "ug.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
